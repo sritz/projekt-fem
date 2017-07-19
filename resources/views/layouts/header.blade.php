@@ -8,3 +8,11 @@
 <link rel="stylesheet" href="{{ url("/lib/css/yeti/yeti.css") }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.smartmenus/1.0.0/addons/bootstrap/jquery.smartmenus.bootstrap.min.css">
 <link rel="stylesheet" href="{{ url("/lib/css/custom.css") }}">
+
+<!-- Custom CSS -->
+<style>
+    body
+    {
+        padding-top: 70px;
+    }
+</style>
