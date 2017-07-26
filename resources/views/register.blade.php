@@ -8,14 +8,6 @@
         <div class="col-md-8 col-md-offset-2">
             <form class="form-horizontal" role="form" method="POST" action="{{ url('/register') }}">
                 <div class="form-group">
-                    <label class="col-md-4 control-label">Username</label>
-
-                    <div class="col-md-6">
-                        <input type="text" class="form-control" name="username">
-                    </div>
-                </div>
-                <br>
-                <div class="form-group">
                     <label class="col-md-4 control-label">Email</label>
 
                     <div class="col-md-6">
